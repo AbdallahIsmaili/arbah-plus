@@ -26,11 +26,13 @@ module.exports = {
       colors: {
         black: "#212b36",
         dark: "#090E34",
+        instagram: "#E1306C",
         "dark-700": "#090e34b3",
         primary: "#3056D3",
-        secondary: "#13C296",
+        secondary: "#25D366",
         "body-color": "#637381",
-        warning: "#FBBF24",
+        warning: "#E1306C",
+        green: "#25D366",
       },
       boxShadow: {
         input: "0px 7px 20px rgba(0, 0, 0, 0.03)",
