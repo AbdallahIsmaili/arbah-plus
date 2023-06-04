@@ -3,6 +3,9 @@
     box-sizing: border-box;
 }
 
+#home{
+    background-color: #030451;
+}
 body {
     line-height: 1.5;
     font-family: sans-serif;
@@ -97,7 +100,7 @@ img {
         margin-bottom: 10px;
     }
 }
--------------
+---------
 .gallery-item {
     position: relative;
     overflow: hidden;
