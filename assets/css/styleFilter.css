@@ -63,7 +63,7 @@ img {
 }
 
 .gallery .gallery-item {
-    width: calc(100% / 3);
+    width: calc(100% / 2);
     padding: 15px;
 }
 
